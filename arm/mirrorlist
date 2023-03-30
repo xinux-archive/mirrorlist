@@ -1,0 +1,2 @@
+Server = https://mirror.dc.uz/archlinuxarm/$arch/$repo
+Server = http://mirror.dc.uz/archlinuxarm/$arch/$repo
